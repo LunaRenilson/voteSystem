@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VoteSystem DApp
 
 A basic voting decentralized application (DApp) built with Solidity and React (using Ethers.js). This project lets users vote for pre-registered candidates and view the number of votes each one received.
